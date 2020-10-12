@@ -1,0 +1,15 @@
+Stack Overflow este un site de întrebări și răspunsuri pentru programatori, reprezintă o 
+bibliotecă de răspunsuri detaliate la diferite întrebări despre programare.
+
+Acest site conține diferite funcționalități printre care este conceptul de user reprezentat fiind 
+de butoanele ”Log in” și ”Sign up”.
+Fiind un utilizator al acestei aplicații poți beneficea de diferite permisiuni, cum ar fi: 
+de a căștiga reputație atunci când îi ajuți pe ceilalți cu întrebări și răspunsuri,
+de a selecta etichetele preferate pentru a personaliza pagina de pornire.
+Alte funcționalități pe care le oferă acest site sunt: posibilitatea de a pune întrebări la care să primești 
+răspunsuri și posibilitatea de a căuta prin întrebările deja puse de alți ultilizatori.
+În momentul în care cauți o întrebare etichetele facilitează găsirea acesteia,etichetele reprezentând
+subiectul întrebării.
+
+În același timp, pe acest site poți vizualiza platforma de job-uri disponibile pentru programatori,
+te poți interesa de job-urile dorite și de firmele de care ești interesat.
