@@ -1,0 +1,4 @@
+obj\Debug\netstandard2.0\CreateProfileCmd.rRA+hktF.generated.cs
+obj\Debug\netstandard2.0\CreateProfileResult.FvfNodGV.generated.cs
+obj\Debug\netstandard2.0\.NETStandard,Version=v2.0.AssemblyAttributes.7vgi5rJV.generated.cs
+obj\Debug\netstandard2.0\Profile.Domain.AssemblyInfo.VDsZ-hxx.generated.cs
